@@ -1,4 +1,5 @@
 _repo: The-Oxford-Circus-A-Novel-of-Oxford-and-Youth_50358
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -12,12 +13,17 @@ contributor:
     agent_name: Kettelwell, John
     gutenberg_agent_id: '45723'
     url: http://www.gutenberg.org/2009/agents/45723
+covers:
+- cover_type: archival
+  image_path: 50358-h/images/cover.jpg
 creator:
   author:
     agent_name: Budd, Alfred
     gutenberg_agent_id: '45834'
     url: http://www.gutenberg.org/2009/agents/45834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50358#The-Oxford-Circus-A-Novel-of-Oxford-and-Youth
 gutenberg_issued: '2015-10-31'
 gutenberg_type: Text
 identifiers:
